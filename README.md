@@ -7,7 +7,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikit-learn)
 ![Flask](https://img.shields.io/badge/Flask-Web_App-green?style=for-the-badge&logo=flask)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-UI-purple?style=for-the-badge&logo=bootstrap)
-![Status](https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge)
 
 🎯 **Predict employee salary based on experience, education, and job role using Machine Learning**
 
