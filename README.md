@@ -132,5 +132,3 @@ After evaluating both models on accuracy and generalization:
 | Deployment | Local (extendable to cloud) |
 
 ---
-## 📂 Project Structure
-
